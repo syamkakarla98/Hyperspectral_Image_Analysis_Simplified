@@ -17,7 +17,7 @@
   * **Extracting pixels** of the hyperspectral image.
   * **Visualizing spectral signatures** of the hyperspectral image.
   
-2.[Data Analysis](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Data%20Analysis.ipynb) - This notebook fatures data anlysis of the indian pines hyperspectral image:
+2.[ **Data Analysis**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Data%20Analysis.ipynb) - This notebook fatures data anlysis of the indian pines hyperspectral image:
   * **Visualizing pixels** of the hyperspectral image.
   * **Bar plot** w.r.t class labels of the hyperspectral image.
   * **Box Plot** w.r.t the class labels and bands of hyperspecral image.
