@@ -8,7 +8,7 @@
   
 #### The repository contains the implementation of different machine learning techniques on Hyperspectral Images.
 
-1.[ **Part-1**](https://github.com/syamkakarla98/Hyper-Spectral-Image-Analysis-Simplified/blob/master/part-1.ipynb) - This notebook fatures:
+1.[ **Basics**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Basics.ipynb) - This notebook fatures:
   * **Introduction**
   * **Downloading HSI**
   * **Reading** the hyperspecral image.
