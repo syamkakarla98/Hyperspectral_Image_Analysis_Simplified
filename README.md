@@ -23,5 +23,5 @@
   * **Box Plot** w.r.t the class labels and bands of hyperspecral image.
   * **Distribution Plot** w.r.t the bands of hyperspecral image.
 
-  
-
+3.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
+  * **Dimensionality Rreduction**: The Principal Component Analysis(PCA) is used to reduce the dimensions of the dataset.
