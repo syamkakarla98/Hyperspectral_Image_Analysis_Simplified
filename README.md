@@ -19,9 +19,9 @@
   
 2.[ **Data Analysis**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Data%20Analysis.ipynb) - This notebook fatures data anlysis of the indian pines hyperspectral image:
   * **Visualizing pixels** of the hyperspectral image.
-  * **Bar plot** w.r.t class labels of the hyperspectral image.
-  * **Box Plot** w.r.t the class labels and bands of hyperspecral image.
-  * **Distribution Plot** w.r.t the bands of hyperspecral image.
+  * **Bar plot** w.r.t _class labels_ of the hyperspectral image.
+  * **Box Plot** w.r.t the _class labels_ and _bands_ of hyperspecral image.
+  * **Distribution Plot** w.r.t the _bands_ of hyperspecral image.
 
 3.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
   * **Dimensionality Rreduction**: The _principal component analysis(PCA)_ is used to reduce the dimensions of the dataset.
