@@ -25,3 +25,5 @@
 
 3.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
   * **Dimensionality Rreduction**: The principal component analysis(PCA) is used to reduce the dimensions of the dataset.
+  * **Classifier**: The support vector machine(SVM) classifier is used to classsify the pixwels of the Dataset.
+  
