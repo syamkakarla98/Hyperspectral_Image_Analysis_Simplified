@@ -3,7 +3,7 @@
   ![Stars](https://img.shields.io/github/stars/syamkakarla98/Hyper-Spectral-Image-Analysis-Simplified)
   ![Forks]( https://img.shields.io/github/forks/syamkakarla98/Hyper-Spectral-Image-Analysis-Simplified)
   ![issued](https://img.shields.io/github/issues/syamkakarla98/Hyper-Spectral-Image-Analysis-Simplified)
-  ![License](https://img.shields.io/github/license/syamkakarla98/Hyper-Spectral-Image-Analysis-Simplified)
+  ![License](https://img.shields.io/github/license/syamkakarla98/Hyperspectral_Image_Analysis_Simplified)
   <!-- [![Downloads](https://img.shields.io/github/downloads/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/total.svg)](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified)
 -->
   
