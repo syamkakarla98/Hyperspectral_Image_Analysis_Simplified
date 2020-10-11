@@ -17,20 +17,24 @@
   * **Visualizing ground truth** of the image.
   * **Extracting pixels** of the hyperspectral image.
   * **Visualizing spectral signatures** of the hyperspectral image.
-  
+
+
 2.[ **Data Analysis**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Data%20Analysis.ipynb) - This notebook fatures data anlysis of the indian pines hyperspectral image:
   * **Visualizing pixels** of the hyperspectral image.
   * **Bar plot** w.r.t _class labels_ of the hyperspectral image.
   * **Box Plot** w.r.t the _class labels_ and _bands_ of hyperspecral image.
   * **Distribution Plot** w.r.t the _bands_ of hyperspecral image.
 
-3.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
+3.[**Exploratory Data Analysis (EDA) on Satellite Imagery Using EarthPy**](https://towardsdatascience.com/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293)
+
+4.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
   * **Dimensionality Rreduction**: The _principal component analysis(PCA)_ is used to reduce the dimensions of the dataset.
   * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
   
- 4.[ **Kernel PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/kernel%20PCA%2BSVM.ipynb)  - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
+ 5.[ **Kernel PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/kernel%20PCA%2BSVM.ipynb)  - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
   * **Dimensionality Rreduction**: The _Kernel principal component analysis(PCA)_  with '**rbf kernel**' is used to reduce the dimensionality of the dataset.
   * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
 
 
-## Do star if you like the repository.
+
+## Do give a star if you like the repository.
