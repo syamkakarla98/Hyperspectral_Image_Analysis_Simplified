@@ -27,13 +27,15 @@
 
 3.[**Exploratory Data Analysis (EDA) on Satellite Imagery Using EarthPy**](https://towardsdatascience.com/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293)
 
-4.[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
-  * **Dimensionality Rreduction**: The _principal component analysis(PCA)_ is used to reduce the dimensions of the dataset.
-  * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
+4.[**Dimensionality Reduction**]
+  * Check this article entitled [Dimensionality Reduction in Hyperspectral Images using Python](https://towardsdatascience.com/dimensionality-reduction-in-hyperspectral-images-using-python-611b40b6accc) and [*code*]().
+  *[ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
+    * **Dimensionality Rreduction**: The _principal component analysis(PCA)_ is used to reduce the dimensions of the dataset.
+    * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
   
- 5.[ **Kernel PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/kernel%20PCA%2BSVM.ipynb)  - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
-  * **Dimensionality Rreduction**: The _Kernel principal component analysis(PCA)_  with '**rbf kernel**' is used to reduce the dimensionality of the dataset.
-  * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
+ *[ **Kernel PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/kernel%20PCA%2BSVM.ipynb)  - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
+    * **Dimensionality Rreduction**: The _Kernel principal component analysis(PCA)_  with '**rbf kernel**' is used to reduce the dimensionality of the dataset.
+    * **Classifier**: The _support vector machine(SVM)_ classifier is used to classsify the pixels of the HSI with classification report and the confusion matrix, classification map of the classifier is visualized.
 
 
 
