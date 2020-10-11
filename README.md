@@ -28,7 +28,7 @@
 3.[**Exploratory Data Analysis (EDA) on Satellite Imagery Using EarthPy**](https://towardsdatascience.com/exploratory-data-analysis-eda-on-satellite-imagery-using-earthpy-c0e186fe4293)
 
 4.**Dimensionality Reduction**
-  * Check this article entitled [Dimensionality Reduction in Hyperspectral Images using Python](https://towardsdatascience.com/dimensionality-reduction-in-hyperspectral-images-using-python-611b40b6accc) and [*code*]().
+  * Check this article entitled [Dimensionality Reduction in Hyperspectral Images using Python](https://towardsdatascience.com/dimensionality-reduction-in-hyperspectral-images-using-python-611b40b6accc) and [*code*](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Articles/Dimensionality_Reduction_on%C2%A0HSI_using_PCA.ipynb).
   
   
   * [ **PCA + SVM**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/PCA%2BSVM.ipynb) - This notebook implements the following _machine learning_ techniques on the indian pines dataset.
