@@ -7,7 +7,7 @@
   <!-- [![Downloads](https://img.shields.io/github/downloads/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/total.svg)](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified)
 -->
   
-#### The repository contains the implementation of different machine learning techniques on Hyperspectral Images.
+#### The repository contains the implementation of different machine learning techniques on Hyperspectral and satellite Imagery analysis. Find more articles from [here](https://syamkakarla.medium.com/).
 
 1.[ **Basics**](https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified/blob/master/Basics.ipynb) - This notebook fatures:
   * **Introduction**
